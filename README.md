@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Tejas+Dwivedi;Machine+Learning+Enthusiast;Deep+Learning+%26+LLM+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
   <br/>
-  <img src="https://media.tenor.com/_q_F38h0ZfAAAAAj/wolf-running.gif" alt="Running Wolf" width="200" />
+  <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="200" />
 </div>
 
 ---
@@ -61,7 +61,7 @@
 </div>
 <br/>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284157-897db9ee-4f36-4d2b-a01c-6d9b2bfb31cf.gif" alt="Running Wolf" width="250" />
+  <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="250" />
 </div>
 <br/>
 
