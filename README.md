@@ -19,7 +19,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Verilog-2C2255?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
@@ -59,8 +59,10 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-
+<br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284157-897db9ee-4f36-4d2b-a01c-6d9b2bfb31cf.gif" alt="Running Wolf" width="250" />
+</div>
 <br/>
 
 ### 🔥 Contribution Activity Graph
