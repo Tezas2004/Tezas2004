@@ -60,10 +60,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="250" />
-</div>
-<br/>
+
 
 ### 🔥 Contribution Activity Graph
 
