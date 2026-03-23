@@ -61,22 +61,7 @@
   <img src="https://img.shields.io/badge/Communication-4B0082?style=for-the-badge&logo=discord&logoColor=white" alt="Communication" />
 </p>
 
-### 📈 GitHub Stats & Contributions
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-      </td>
-      <td width="50%" align="center" style="background-color: #1a1b27;">
-        <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" width="500%" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 ### 🤝 Let's Connect!
 
