@@ -64,8 +64,16 @@
 ### 📈 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="140" />
-  <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" height="140" style="background-color: #1a1b27; padding: 10px; border-radius: 8px;" />
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
+      </td>
+      <td width="50%" align="center" style="background-color: #1a1b27;">
+        <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
