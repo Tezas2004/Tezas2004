@@ -1,7 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Tejas+Dwivedi;Machine+Learning+Enthusiast;Deep+Learning+%26+LLM+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
-  <br/>
-  <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="200" />
+  <table>
+    <tr>
+      <td align="center" width="200" style="border: none; background: transparent;">
+        <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="150" />
+      </td>
+      <td align="center" width="600" style="border: none; background: transparent;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Tejas+Dwivedi;Machine+Learning+Enthusiast;Deep+Learning+%26+LLM+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -60,7 +67,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
-
+<div align="center">
+  <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="250" />
+</div>
+<br/>
 
 ### 🔥 Contribution Activity Graph
 
