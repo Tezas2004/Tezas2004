@@ -4,8 +4,8 @@
       <td align="center" width="200" style="border: none; background: transparent;">
         <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="150" />
       </td>
-      <td align="center" width="500" style="background: transparent;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Tejas+Dwivedi;Machine+Learning+Enthusiast;Deep+Learning+%26+LLM+Explorer;Learning+New+Tech!" alt="Typing SVG" />
+      <td align="center" width="600" style="border: none; background: transparent;">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=2000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B+I'm+Tejas+Dwivedi;Machine+Learning+Enthusiast;Deep+Learning+%26+LLM+Explorer;Always+Learning+New+Tech!" alt="Typing SVG" />
       </td>
     </tr>
   </table>
@@ -26,6 +26,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+
   <img src="https://img.shields.io/badge/Verilog-2C2255?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
@@ -63,15 +64,8 @@
 ### 📈 GitHub Stats & Contributions
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-<br/>
-
-
-### 🔥 Contribution Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tezas2004&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Heatmap" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" width="48%" style="max-height: 195px; object-fit: contain;" />
 </div>
 
 <br/>
