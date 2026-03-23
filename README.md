@@ -65,7 +65,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" width="48%" style="max-height: 195px; object-fit: contain;" />
+  <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" width="48%" style="max-height: 395px; object-fit: contain;" />
 </div>
 
 <br/>
