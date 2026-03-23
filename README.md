@@ -70,7 +70,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
       </td>
       <td width="50%" align="center" style="background-color: #1a1b27;">
-        <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" width="100%" />
+        <img src="https://ghchart.rshah.org/7aa2f7/Tezas2004" alt="Contribution Heatmap" width="500%" />
       </td>
     </tr>
   </table>
