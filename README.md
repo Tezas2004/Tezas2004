@@ -26,7 +26,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Verilog-2C2255?style=for-the-badge&logo=verilog&logoColor=white" alt="Verilog" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="Embedded C" />
@@ -67,10 +66,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tezas2004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
-<div align="center">
-  <img src="https://img.itch.zone/aW1nLzIyNDAwMDI4LmdpZg==/original/1Td2UA.gif" alt="Soldier" width="250" />
-</div>
-<br/>
+
 
 ### 🔥 Contribution Activity Graph
 
