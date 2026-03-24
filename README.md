@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep_Learning-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/RAG-005571?style=for-the-badge&logo=openai&logoColor=white" alt="RAG" />
+  <img src="https://img.shields.io/badge/LangGraph-FFFFFF?style=for-the-badge&logo=langchain&logoColor=black" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/OpenClaw-FF4F8B?style=for-the-badge&logo=robot&logoColor=white" alt="OpenClaw" />
+  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=robot&logoColor=white" alt="CrewAI" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="MS Excel" />
